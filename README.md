@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vikraman
-- 👀 I’m interested in Coding, Javascript, AI, IOT
+- 👀 I’m interested in Coding, Javascript, Angular, TypeScript, ML, IOT
 - 🌱 I’m currently learning TinyML
 - 📫 How to reach me 9677708831, email: vikramanben@gmail.com
